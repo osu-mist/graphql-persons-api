@@ -6,7 +6,8 @@ Experimental GraphQL Persons API written in Node.js.
 
 1. Install Node.js from [nodejs.org](https://nodejs.org/en/).
 2. Install Oracle client libraries to your operating system library search path by following [here](https://oracle.github.io/odpi/doc/installation.html).
-3. Install dependent npm packages:
+3. Copy [config-example.json](./config-example.json) as `config.json` and modify as needed.
+4. Install dependencies via [npm](https://www.npmjs.com/):
 
   ```
   $ npm install
