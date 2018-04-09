@@ -1,0 +1,5 @@
+{
+  "dbUser": "dbUser",
+  "dbPassword": "dbPassword",
+  "dbConnectionString": "localhost/orclpdb"
+}
